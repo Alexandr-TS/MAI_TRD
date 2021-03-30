@@ -4,3 +4,4 @@ TODO:
 - Template
 - Min Cost Max Flow
 - Convex hull?
+- Suffix array+Kasai (replace with normal one. Current one is shitty)
